@@ -4,11 +4,8 @@
   <h2>情報系の大学生。OSとか低レベルのことに興味があります。</h2>
 </div>
 
-## Skills
+## Languages(learning)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat&logo=nixos&logoColor=white)
 
 ## Projects
 | Project | Description |
