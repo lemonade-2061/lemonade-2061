@@ -20,5 +20,5 @@
 ## Now
 - felis OS開発中
 - nigirimesi-todo 開発中
-- カーネル自作の勉強中
+- アーキテクチャなどの勉強中
 - dotfilsの作成
