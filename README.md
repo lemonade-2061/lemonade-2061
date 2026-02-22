@@ -1,10 +1,3 @@
 <div align="center">
-```
-        |\        _,,---,,--
-ZZZzz /,`.-'``    -.  ;-;;,--
-      |,4-  ) )-,_.\ (  `'-'
-     '---''(_/--'  `-'\_)
-```
-           HelloWoled
-
+  <img src="./banner.png" alt="banner">
 </div>
