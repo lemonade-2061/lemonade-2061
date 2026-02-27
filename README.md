@@ -10,7 +10,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat&logo=nixos&logoColor=white)
 
-## プロジェクト
+## プロジェクト(開発中)
 | プロジェクト | 内容 |
 |---------|-------------|
 | [felis](https://github.com/lemonade-2061/felis) | NixOSベースのLinuxディストリビューション |
