@@ -13,7 +13,7 @@
 ## プロジェクト(開発中)
 | プロジェクト | 内容 |
 |---------|-------------|
-| [felis](https://github.com/lemonade-2061/felis) | NixOSベースのLinuxディストリビューション |
+| [felis](https://github.com/lemonade-2061/felis) | Linuxのディストリビューション |
 | [nigirimesi-todo](https://github.com/lemonade-2061/nigirimesi-cli.git) | CLIで動くToDoリスト |
 
 ## 開発環境
