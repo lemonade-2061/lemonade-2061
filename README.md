@@ -14,7 +14,6 @@
 | プロジェクト | 内容 |
 |---------|-------------|
 | [felis](https://github.com/lemonade-2061/felis) | Linuxのディストリビューション |
-| [nigirimesi-todo](https://github.com/lemonade-2061/nigirimesi-cli.git) | CLIで動くToDoリスト |
 
 ## 開発環境
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
