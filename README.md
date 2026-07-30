@@ -19,3 +19,6 @@
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 
+## 言語使用割合
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonade-2061&layout=compact)](https://github.com/lemonade-2061)
+
