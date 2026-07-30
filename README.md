@@ -20,5 +20,6 @@
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 
 ## 言語使用割合
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonade-2061&layout=compact)](https://github.com/lemonade-2061)
+[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lemonade-2061)](https://github.com/lemonade-2061)
+[![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lemonade-2061)](https://github.com/lemonade-2061)
 
