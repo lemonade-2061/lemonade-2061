@@ -22,5 +22,6 @@
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white)
 
 ## 言語使用割合
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lemonade-2061&layout=compact)](https://github.com/lemonade-2061)
+[![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lemonade-2061)](https://github.com/lemonade-2061)
+[![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lemonade-2061)](https://github.com/lemonade-2061)
 
